@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testreact/static/css/main.073c9b0a.css",
+    "main.js": "/testreact/static/js/main.885322d7.js",
+    "static/js/787.e26d4699.chunk.js": "/testreact/static/js/787.e26d4699.chunk.js",
+    "static/media/serpent.jpg": "/testreact/static/media/serpent.82725066199fc88a1e27.jpg",
+    "index.html": "/testreact/index.html",
+    "main.073c9b0a.css.map": "/testreact/static/css/main.073c9b0a.css.map",
+    "main.885322d7.js.map": "/testreact/static/js/main.885322d7.js.map",
+    "787.e26d4699.chunk.js.map": "/testreact/static/js/787.e26d4699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.885322d7.js"
+  ]
+}
