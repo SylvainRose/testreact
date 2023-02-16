@@ -1,0 +1,35 @@
+.item{
+    margin-right: 10px;
+    color: black;
+    cursor: pointer;
+   
+}
+.di{
+    position: relative;
+    height: 80px;
+    background: radial-gradient( rgb(233, 233, 11),rgb(126, 7, 7));
+    text-decoration: none; 
+}
+.didi{
+    position: absolute;
+    margin-right: 10px;
+    color: #f1f1f1;
+    cursor: pointer;
+    text-align: right;
+}
+.liste{
+    list-style-type: none;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    height: 80px;
+    width: 90px;
+}
