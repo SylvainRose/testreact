@@ -1,13 +1,13 @@
+import './Menu.css';
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import Menu from "./Menu.css";
 import image1 from './phenix.jpg';
 const Menu = () => {
     return (
         <div className='di'>
            <div className='didi'><img src={image1}/></div>
             <ul className='liste'>
-                <NavLink to='/'>
+                <NavLink to='/testreact'>
                 <li className='item'>Accueil</li>
                 </NavLink>
                 <NavLink to='/Apropos'>
