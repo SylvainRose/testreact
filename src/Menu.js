@@ -7,7 +7,7 @@ const Menu = () => {
         <div className='di'>
            <div className='didi'><img src={image1}/></div>
             <ul className='liste'>
-                <NavLink to='/testreact'>
+                <NavLink to='/'>
                 <li className='item'>Accueil</li>
                 </NavLink>
                 <NavLink to='/Apropos'>
