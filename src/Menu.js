@@ -5,7 +5,7 @@ import image1 from './phenix.jpg';
 const Menu = () => {
     return (
         <div className='di'>
-           <div className='didi'><img src={image1}/></div>
+           <div className='didi'><img className='menu' src={image1}/></div>
             <ul className='liste'>
                 <NavLink to='/testreact'>
                 <li className='item'>Accueil</li>

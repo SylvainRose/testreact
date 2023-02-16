@@ -29,7 +29,12 @@ h1{
     text-align: center;
     text-decoration: underline;
 }
-img{
+.menu{
     height: 80px;
     width: 90px;
+}
+.ser{
+    height: 250px;
+    width: 250px;
+    justify-content: center;
 }
