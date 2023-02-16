@@ -1,3 +1,4 @@
+import './App.css';
 import {BrowserRouter, Routes, Route } from "react-router-dom";
 import Accueil from "./pages/Home";
 import Apropos from "./pages/Apropos";
