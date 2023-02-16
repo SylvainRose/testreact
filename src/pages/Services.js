@@ -1,20 +1,15 @@
 import React from 'react';
 import Menu from "../Menu";
 
-const Portofolio = () => {
+const Services = () => {
     return (
         <div>
             <Menu/>
-            <h1>Portofolio</h1>
-            <p>Dans cette partie du site au cas ou vous vous demandez quelles sont mes motivations, elles sont très simples :</p>
-            <p>Tout d'abord je vais vous dire ce que j'aime, manger et boire (pas forcement de l'alcool), les jeux vidéo, le cinéma, sortir avec ma compagne ou mes potes,...
-               Et pour pouvoir faire tout ça, faut de l'argent donc oui une de mes motivations est de vouloir vivre.
-            </p>
-            <p>La suite est tout aussi simple si je me suis présenté chez vous c'est que dans les renseignements que j'ai pu récolter pendant mes recherches votre entreprise m'a plu,
-                donc mon autre motivation est de travailler dans un lieu qui me plait.
-            </p>
+            <h1>Services</h1>
+            <p>Donc si vous m'engagez,vous gagnez une personne qui est techinicien Pc et donc qui peut résoudre les problème de pc, un developper Web même s'il y a encore beaucoup de chose à apprendre et un pâtissier qui peut parfois ramener de bonne pâtisserie. </p>
+            <p>Voilà j'ai fini mais je pense que si vous êtes un bon patron ou une bonne patronne il ne vous reste qu'un choix c'est de m'engager alors je vous dis à bientôt!!</p>
         </div>
     );
 };
 
-export default Portofolio;
+export default Services;
